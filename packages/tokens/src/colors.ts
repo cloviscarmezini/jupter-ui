@@ -11,8 +11,8 @@ export const colors = {
   gray800: '#202024',
   gray900: '#121214',
 
-  jupter300: '#00B37E',
-  jupter500: '#00875F',
-  jupter700: '#015F43',
-  jupter900: '#00291D',
+  jupter300: '#6A34E8',
+  jupter500: '#7214E3',
+  jupter700: '#4300AE',
+  jupter900: '#1E0069',
 } as const
