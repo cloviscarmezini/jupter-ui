@@ -1,0 +1,3 @@
+{
+    "extends": "@jupter-ui/eslint-config"
+}

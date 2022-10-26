@@ -1,0 +1,4 @@
+{
+  "extends": "@jupter-ui/ts-config/base.json",
+  "include": ["src"]
+}
